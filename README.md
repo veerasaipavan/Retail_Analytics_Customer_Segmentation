@@ -70,7 +70,8 @@ An end-to-end **Data Analytics & Clustering** project using **Python** and **Pow
 
 ###  Power BI Dashboard
 
-![Retail Sales Dashboard](dashboard/powerbi_dashboard.png)
+<img width="1315" height="738" alt="powerbi_dashboard" src="https://github.com/user-attachments/assets/8a818955-bf5f-49a3-8c65-8aaba3b63977" />
+
 
 This interactive dashboard includes:
 -  Total Sales: **$12.46M**
