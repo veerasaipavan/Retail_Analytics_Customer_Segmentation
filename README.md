@@ -82,6 +82,12 @@ This interactive dashboard includes:
 -  Sales performance by country
 -  Top 10 Most Profitable Products
 
+
+
+---
+- 📓 [View Notebook](notebooks/retail_analysis_customer_segmentation.ipynb)
+- 📊 [Download Power BI Dashboard](dashboard/powerbi_dashboard.pbix)
+
 ---
 
 ##  Folder Structure
@@ -130,7 +136,7 @@ Aspiring Data Analyst | Skilled in Python, SQL, Power BI, and Machine Learning
  veerasaipavan6673@gmail.com  
  [LinkedIn]( https://www.linkedin.com/in/veera-sai-pavan-chavvakula-6260a72bb )
 
-If you found this project insightful, feel free to ⭐ star this repo or share it!
+If you found this project insightful, feel free to  star this repo or shar
 
 ---
 
