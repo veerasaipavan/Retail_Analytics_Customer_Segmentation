@@ -4,6 +4,20 @@ An end-to-end **Data Analytics & Clustering** project using **Python** and **Pow
 
 ---
 
+## 📌 Table of Contents
+- [Objective](#-objective)
+- [Dataset](#dataset)
+- [Tools & Technologies](#tools--technologies)
+- [Project Workflow](#-project-workflow)
+- [Sample Visuals](#-sample-visuals)
+- [Folder Structure](#-folder-structure)
+- [Key Insights](#-key-insights)
+- [Future Improvements](#-future-improvements)
+- [About Me](#-about-me)
+
+
+ ---
+
 ##  Objective
 
 - Analyze retail performance across countries, categories, and customer segments.
@@ -85,9 +99,9 @@ This interactive dashboard includes:
 
 
 ---
-- [View Notebook](Retail_Analytics_Customer_Segmentation.ipynb)
-- 
 
+- [View Notebook](Retail_Analytics_Customer_Segmentation.ipynb)
+  
 ---
 
 ##  Folder Structure
