@@ -154,4 +154,4 @@ If you found this project insightful, feel free to  star this repo or shar
 
 ---
 
-This project is open source and available under the [MIT License](LICENSE).
+
