@@ -85,8 +85,8 @@ This interactive dashboard includes:
 
 
 ---
-- 📓 [View Notebook](notebooks/retail_analysis_customer_segmentation.ipynb)
-- 📊 [Download Power BI Dashboard](dashboard/powerbi_dashboard.pbix)
+- 📓 [View Notebook](retail_analysis_customer_segmentation.ipynb)
+- 📊 [Download Power BI Dashboard](powerbi_dashboard.pbix)
 
 ---
 
